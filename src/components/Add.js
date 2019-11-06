@@ -5,7 +5,7 @@ class Add extends Component {
   render() {
     return (
         <div>
-          <h1>Add Function</h1>
+          <h1 className="hai">Add Function</h1>
           <Form operator='+'/>
         </div>
     );
